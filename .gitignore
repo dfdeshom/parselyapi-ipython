@@ -1,0 +1,20 @@
+*.pyc
+*~
+*.log
+*.wpr
+*.cache
+.env
+localsettings.py
+*.swp
+*.swo
+nohup.out
+dump.rdb
+.scrapy
+.DS_STORE
+crawl.out
+scrape/examiner/dbs/
+
+# build files
+scrape/examiner/build/
+scrape/examiner/project.egg-info/
+*.xml
